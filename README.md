@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**shahrozkhan-bit/shahrozkhan-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Hi, I'm M. Shahroz Khan 👋
+## Hi there, I'm M. Shahroz Khan 👋
 
 🎓 BS Computer Science Graduate (University of Central Punjab)  
 💻 Embedded Systems & AI Developer  
