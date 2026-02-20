@@ -47,24 +47,17 @@ I am highly interested in data-driven systems, backend processing, automation, a
 
 ## 📂 Featured Projects
 
-### etl_api_project
+### ETL_Pipeline_project
 Built an end-to-end ETL pipeline using Python and MySQL. The pipeline extracts data from browser, performs cleaning and transformation using Pandas, and loads structured data into a relational database.
 
 **Tech Used:** Python, MySQL, SQL
 
 ---
 
-### 🚰 Water-Pump Control System
-Embedded system that monitors water levels using sensors and controls pump ON/OFF state automatically. Displays real-time level on LCD.
+### 🌿 AI-Based Plant Disease Detection (FYP)
+Server-based mobile application that sends plant images to a backend server where a CNN model classifies plant diseases.
 
-**Tech Used:** C++, Logic Gates, Embedded Programming
-
----
-
-### ✈ Aircraft Propeller Analyzer
-Sensor-based system that calculates RPM and thrust of aircraft propeller and graphically displays performance metrics for analysis.
-
-**Tech Used:** C++, Sensors, Embedded Systems
+**Tech Used:** Python, TensorFlow, Keras, CNN, Backend Processing
 
 ---
 
@@ -75,10 +68,17 @@ Built a YouTube Manager which add, display, update and delete a youtube video re
 
 ---
 
-### 🌿 AI-Based Plant Disease Detection (FYP)
-Server-based mobile application that sends plant images to a backend server where a CNN model classifies plant diseases.
+### ✈ Aircraft Propeller Analyzer
+Sensor-based system that calculates RPM and thrust of aircraft propeller and graphically displays performance metrics for analysis.
 
-**Tech Used:** Python, TensorFlow, Keras, CNN, Backend Processing
+**Tech Used:** C++, Sensors, Embedded Systems
+
+---
+
+### 🚰 Water-Pump Control System
+Embedded system that monitors water levels using sensors and controls pump ON/OFF state automatically. Displays real-time level on LCD.
+
+**Tech Used:** C++, Logic Gates, Embedded Programming
 
 ---
 
