@@ -54,7 +54,7 @@ Built an end-to-end ETL pipeline using Python and MySQL. The pipeline extracts d
 
 ---
 
-### 🌿 AI-Based Plant Disease Detection (FYP)
+### 🌿 AI-Based Plant Disease Detection App (FYP)
 Server-based mobile application that sends plant images to a backend server where a CNN model classifies plant diseases.
 
 **Tech Used:** Python, TensorFlow, Keras, CNN, Backend Processing
